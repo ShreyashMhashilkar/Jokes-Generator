@@ -5,4 +5,8 @@ Steps to follow:
 
 1)Install pyjokes using the command
 
-`pip install pyjokes`
+```
+
+pip install pyjokes
+
+```
